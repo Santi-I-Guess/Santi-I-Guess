@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Santi-I-Guess
-- 👀 I’m interested in competative programming
+- 👀 I’m interested in competative programming, networking, and operating systems
 - 🌱 I’m currently learning data structure implementations
 - 💞️ I’m looking to collaborate on Code Quest / comp. sci. problems
 - 📫 How to reach me: gmail
