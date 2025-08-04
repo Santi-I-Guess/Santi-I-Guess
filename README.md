@@ -1,5 +1,5 @@
 Howdy, I'm Santi
-- I'm a non-professional systems developer and occasional competative programmer
+- I'm a non-professional systems developer, computer science undergrad, and occasional competative programmer
 - My languages of focus are C, Bash, and Python
 - My areas of focus (regarding computer science) are networking and systems (unix) programming
 - I make silly TUI games, utilities, and whatever else comes to mind
